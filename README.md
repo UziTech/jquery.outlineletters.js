@@ -7,11 +7,14 @@ This is a jQuery Plugin that outlines letters in a paragraph. Tested on jquery v
 ## DEMO:
 http://uzitech.com/files/outlineletters.php
 ## OPTIONS:
+<pre>
 color: outline color. default: '#888'
 size: outline width in px. default: 1 (I recommend not going higher than 5)
 round: round corners when size &gt; 1. default: true
 useTextShadow: uses css3 property "text-shadow" if browser supports it. default: true
+</pre>
 ## USAGE: 
+<pre>
 &lt;!DOCTYPE html&gt;
 &lt;html&gt;
  &lt;head&gt;
@@ -44,3 +47,4 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
   &lt;br/&gt;
  &lt;/body&gt;
 &lt;/html&gt;
+</pre>
