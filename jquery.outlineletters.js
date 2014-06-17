@@ -1,3 +1,6 @@
+// Outline Letters Plugin v.1.5
+// Copyright (c) 2013, Tony Brix, http://tonybrix.info
+// MIT Licensed: http://www.opensource.org/licenses/mit-license.php
 (function( $ ){
 
   $.fn.outlineLetters = function( options ) {  
