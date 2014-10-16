@@ -17,7 +17,8 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
 ## Examples
 
 ### Basic
-<p id="example1">![Example 1](http://uzitech.github.io/images/example1.png)</p>
+<p id="example1"></p>
+![Example 1](http://uzitech.github.io/images/example1.png)
 ``` html
 <p id="example1" style="color: #00f">Example 1</p>
 <script>
@@ -25,7 +26,8 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
 </script>
 ```
 ### Color
-<p id="example2">![Example 2](http://uzitech.github.io/images/example2.png)</p>
+<p id="example2"></p>
+![Example 2](http://uzitech.github.io/images/example2.png)
 ``` html
 <p id="example2" style="color: #f00">Example 2</p>
 <script>
@@ -33,7 +35,8 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
 </script>
 ```
 ### Size
-<p id="example3">![Example 3](http://uzitech.github.io/images/example3.png)</p>
+<p id="example3"></p>
+![Example 3](http://uzitech.github.io/images/example3.png)
 ``` html
 <p id="example3" style="color: #0f0">Example 3</p>
 <script>
@@ -41,7 +44,8 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
 </script>
 ```
 ### Color & Size
-<p id="example4">![Example 4](http://uzitech.github.io/images/example4.png)</p>
+<p id="example4"></p>
+![Example 4](http://uzitech.github.io/images/example4.png)
 ``` html
 <p id="example4" style="color: #f00">Example 4</p>
 <script>
@@ -49,7 +53,8 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
 </script>
 ```
 ### No text shadow
-<p id="example5">![Example 5](http://uzitech.github.io/images/example5.png)</p>
+<p id="example5"></p>
+![Example 5](http://uzitech.github.io/images/example5.png)
 ``` html
 <p id="example5" style="color: #0f0">Example 5</p>
 <script>
@@ -57,7 +62,8 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
 </script>
 ```
 ### Round
-<p id="example6">![Example 6](http://uzitech.github.io/images/example6.png)</p>
+<p id="example6"></p>
+![Example 6](http://uzitech.github.io/images/example6.png)
 ``` html
 <p id="example6" style="color: #0f0">Example 6</p>
 <script>
