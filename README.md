@@ -61,7 +61,7 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
   $("#example5").outlineLetters({size: 5, useTextShadow: false});
 </script>
 ```
-### Round
+### No Round
 <p id="example6"></p>
 ![Example 6](http://uzitech.github.io/images/example6.png)
 ``` html
