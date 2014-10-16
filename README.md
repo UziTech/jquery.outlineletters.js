@@ -17,32 +17,32 @@ useTextShadow: uses css3 property "text-shadow" if browser supports it. default:
 ## Examples:
 
 ### Basic
-<div id="example1">Example 1</div>
+<div id="example1"></div>
 ``` javascript
 $("#example1").outlineLetters();
 ```
 ### Color
-<div id="example2">Example 2</div>
+<div id="example2"></div>
 ``` javascript
 $("#example2").outlineLetters({color: '#0ff'});
 ```
 ### Size
-<div id="example3">Example 3</div>
+<div id="example3"></div>
 ``` javascript
 $("#example3").outlineLetters({size: 5});
 ```
 ### Color & Size
-<div id="example4">Example 4</div>
+<div id="example4"></div>
 ``` javascript
 $("#example4").outlineLetters({color: '#0ff', size: 2});
 ```
 ### No text shadow
-<div id="example5">Example 5</div>
+<div id="example5"></div>
 ``` javascript
 $("#example5").outlineLetters({size: 5, useTextShadow: false});
 ```
 ### Round
-<div id="example6">Example 6</div>
+<div id="example6"></div>
 ``` javascript
 $("#example6").outlineLetters({size: 5, round: false});
 ```
