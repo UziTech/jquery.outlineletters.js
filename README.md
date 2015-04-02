@@ -1,5 +1,4 @@
 [![Code Climate](https://codeclimate.com/github/UziTech/jquery.outlineletters.js/badges/gpa.svg)](https://codeclimate.com/github/UziTech/jquery.outlineletters.js)
-[![Coverage Status](https://coveralls.io/repos/UziTech/jquery.outlineletters.js/badge.svg)](https://coveralls.io/r/UziTech/jquery.outlineletters.js)
 # Outline letters jquery plugin
 #### Copyright (c) 2014 Tony Brix http://tonybrix.info
 #### MIT Licensed: http://www.opensource.org/licenses/mit-license.php
