@@ -5,8 +5,6 @@
 
 A jQuery Plugin that outlines letters in a paragraph. Tested on jquery v 1.2.3 and up
 
-## Demo
-http://uzitech.com/files/outlineletters.php
 ## Options
 color: outline color. default: '#888'
 
